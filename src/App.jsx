@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <Header title='Weather' />
+      <Header title='Weather Brussels' />
       <WeatherList />
     </>
   )
