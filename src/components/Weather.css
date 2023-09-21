@@ -1,0 +1,23 @@
+/* WeatherData.css */
+
+.weather-container {
+    background-color: #12c0f7;
+    border: 2px solid #050f14;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .day-hours {
+    
+    display: flex;
+  
+  align-items: flex-start;
+  color: blue;
+margin-left: 10px;
+    
+  }
+  
+  /* Style the individual Day components */
+  

@@ -1,0 +1,8 @@
+header {
+   display: flex;
+   flex-direction: column;
+    color: rgb(17, 58, 221);
+    padding: 20px;
+    text-align: center;
+    font-size: 3rem;
+}
